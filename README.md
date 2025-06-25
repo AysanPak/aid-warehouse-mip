@@ -8,6 +8,7 @@ The project aims to optimize the location, size, and number of warehouses to min
 ## Contents
 - `WAREHOUSE_OPTIMIZATION.ipynb`: Jupyter notebook implementing the optimization model with Pyomo.
 - `Humanitarian Aid Warehouse Modeling Documentation.pdf`: Detailed project documentation including problem formulation, assumptions, results, and scenario analyses.
+- `SUMMARY.md`: Summary of the project report.
 
 ## Key Features
 - Multi-region warehouse placement considering geographic and risk factors.
