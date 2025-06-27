@@ -6,7 +6,7 @@
 
 ## A Mixed Integer Programming Approach to Emergency Supply Chain Design
 
-**By Aysan Pakmanesh (528241005)**
+**By Aysan Pakmanesh (Student Number: 528241005)**
 M.Sc. Big Data & Business Analytics - Istanbul Technical University
 
 ---
